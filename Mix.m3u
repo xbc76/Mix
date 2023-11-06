@@ -52,7 +52,7 @@ https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b48fd17bd87b4cc697c65866e7314ed6:eb61b9dd29ce08d77db11e325c06ef07
 https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Factoría de Ficción" group-title="TDT" ch-number="49" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FDFIC",FDF
+#EXTINF:-1 tvg-id="Factoría de Ficción" group-title="TDT" ch-number="49" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FDFIC", Factoría de Ficción
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
