@@ -177,7 +177,7 @@ https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="LA RESISTENCIA" group-title="Movistar" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST",LA RESISTENCIA
+#EXTINF:-1 tvg-id="LA RESISTENCIA 24H" group-title="Movistar" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST",LA RESISTENCIA 24H
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -459,6 +459,145 @@ https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest
 
 
 
+#EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="115" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP",Dreamworks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c069fd82dbe4ac98aa7479322c55f03:a7298938f60688f3575ab9b41da57707
+https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="CLAN" group-title="Infantiles" ch-number="118" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV",CLAN TVE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85
+https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BOING" group-title="Infantiles" ch-number="117" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOING",BOING
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35
+https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" group-title="Infantiles" ch-number="116" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCH",DISNEY CHANNEL HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=067527b8b0d9417eab5df8b2c44cce93:dcb33c1b9c6b8964650e08c33b909074
+https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DISNEY Junior" group-title="Infantiles" ch-number="111" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC",DISNEY JUNIOR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab
+https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088
+https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="NICK JR" group-title="Infantiles" ch-number="113" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICKJR",NICK JR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42679b6034b04d3b9f69543f4e2c98cb:85855ce37613d1a83846d4a535f3752d
+https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BABY TV" group-title="Infantiles" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY",BABY TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7
+https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Dazn" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Dazn" ch-number="71" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD",DAZN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 3" group-title="Dazn" ch-number="196" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3",DAZN 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zRVoFe8F3Mn8w2JufVLbeQ", "kid":"tGQYQrWCQ5Cn/o1Ox4EDHQ" } ], "type":"temporary" }
+https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
+
+#EXTINF:-1 tvg-id="DAZN 4" group-title="Dazn" ch-number="197" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4",DAZN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jg6hKJE1NV8K71kma9AHDg", "kid":"Q2whZDkuRg2uQUIPU/nzlg" } ], "type":"temporary" }
+https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
+
+#EXTINF:-1 tvg-id="DAZN F1 4K" group-title="Dazn" ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD",DAZN F1 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
+https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
+
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Dazn" ch-number="69" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1",DAZN F1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=413b3adb78dd4684a7866819786b8836:92d6e5cfbe02fef2e09e27617e3b9403
+https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Dazn" ch-number="55" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI",DAZN LaLiga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="M+ LALIGA TV UHD" group-title="Futbol" ch-number="440" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH",M+ LALIGA TV UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -504,7 +643,7 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #KODIPROP:inputstream.adaptive.license_key=c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 HD" group-title="Futbol" ch-number="61" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1",M+ LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2" group-title="Futbol" ch-number="61" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1",M+ LIGA DE CAMPEONES 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -647,54 +786,6 @@ https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Dazn" ch-number="55" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI",DAZN LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN F1 4K" group-title="Dazn" ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD",DAZN F1 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
-https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
-
-#EXTINF:-1 tvg-id="DAZN F1" group-title="Dazn" ch-number="69" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1",DAZN F1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=413b3adb78dd4684a7866819786b8836:92d6e5cfbe02fef2e09e27617e3b9403
-https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Dazn" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Dazn" ch-number="71" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD",DAZN 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN 3" group-title="Dazn" ch-number="196" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3",DAZN 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zRVoFe8F3Mn8w2JufVLbeQ", "kid":"tGQYQrWCQ5Cn/o1Ox4EDHQ" } ], "type":"temporary" }
-https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
-
-#EXTINF:-1 tvg-id="DAZN 4" group-title="Dazn" ch-number="197" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4",DAZN 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jg6hKJE1NV8K71kma9AHDg", "kid":"Q2whZDkuRg2uQUIPU/nzlg" } ], "type":"temporary" }
-https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
 
 
 
@@ -709,58 +800,56 @@ https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=D
 
 
 
-
-
-#EXTINF:-1 tvg-id="M+ DEPORTES HD" group-title="Deportes" ch-number="63" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP",M+DEPORTESHD
+#EXTINF:-1 tvg-id="M+ DEPORTES HD" group-title="Deportes" ch-number="63" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP",M+ DEPORTES HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f18c39b70f8146d9a79e9dc0c329464d:646fd34f890a5cdb655bf9a97af06d47
 https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 2 HD" group-title="Deportes" ch-number="64" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR",M+DEPORTES2HD
+#EXTINF:-1 tvg-id="M+ DEPORTES 2 HD" group-title="Deportes" ch-number="64" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR",M+ DEPORTES 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=950ea23dbe3a4fde87568e21de5db567:ba466109f142e2ad4df606379a8e2aa0
 https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 3" group-title="Deportes" ch-number="65" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2",M+DEPORTES3
+#EXTINF:-1 tvg-id="M+ DEPORTES 3" group-title="Deportes" ch-number="65" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2",M+ DEPORTES 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13770bb91478480d8805a8d800a001f9:2b6236a5edc2894a972c0791932f3b4e
 https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 4" group-title="Deportes" ch-number="191" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3",M+DEPORTES4
+#EXTINF:-1 tvg-id="M+ DEPORTES 4" group-title="Deportes" ch-number="191" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3",M+ DEPORTES 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3bdb1e5ba384cfa86b7431d5b76af0a:31f48c32e7c204e080f3d8b1a9d5d17f
 https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 5" group-title="Deportes" ch-number="192" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP11",M+DEPORTES5
+#EXTINF:-1 tvg-id="M+ DEPORTES 5" group-title="Deportes" ch-number="192" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP11",M+ DEPORTES 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9aa45540f9a44a9782ed5d09ecaf25f9:dae69d47171bf1247220a1ea1e97385e
 https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 6" group-title="Deportes" ch-number="193" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI8",M+DEPORTES6
+#EXTINF:-1 tvg-id="M+ DEPORTES 6" group-title="Deportes" ch-number="193" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI8",M+ DEPORTES 6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fe1eb28667e4fc396f1532f3abd6a37:1f2daf34eed9b667e702ce16baece0c7
 https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 7" group-title="Deportes" ch-number="194" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6",M+DEPORTES7
+#EXTINF:-1 tvg-id="M+ DEPORTES 7" group-title="Deportes" ch-number="194" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6",M+ DEPORTES 7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b460369baa24719b2bdcfc0a4bd978a:2189232c870323e05eee0c84bf02082a
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ DEPORTES 8" group-title="Deportes" ch-number="195" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6",M+DEPORTES8
+#EXTINF:-1 tvg-id="M+ DEPORTES 8" group-title="Deportes" ch-number="195" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6",M+ DEPORTES 8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -783,6 +872,13 @@ https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=16fe5ae7946b4197b2411c9fff61d228:66446cc9b6b9c6943c6b09fabef57bf1
 https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="M+ ELLAS VAMOS HD" group-title="Deportes" ch-number="51" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MELLAV",M+ ELLAS VAMOS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc457d13e8354e3ba3fe467dfe5315ed:3abb7fb8106da89825dab57fd1c2e24e
+https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="Deportes" ch-number="74" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL",GOL PLAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -797,7 +893,7 @@ https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=82fce7e54aba4ba5a08bf4a3c2abc744:20f57ed82917d9538d0192314e61ca7b
 https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Real Madrid TV" group-title="Deportes" ch-number="76" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/REALM",Realmadrid TV HD
+#EXTINF:-1 tvg-id="Real Madrid TV" group-title="Deportes" ch-number="76" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/REALM",Real madrid TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -810,12 +906,7 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 
-#EXTINF:-1 tvg-id="M+ ELLAS VAMOS HD" group-title="Deportes" ch-number="51" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MELLAV",M+ ELLAS VAMOS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc457d13e8354e3ba3fe467dfe5315ed:3abb7fb8106da89825dab57fd1c2e24e
-https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="M+ GOLF" group-title="Deportes" ch-number="67" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF%2B",M+ GOLF
 #KODIPROP:inputstream=inputstream.adaptive
@@ -824,7 +915,7 @@ https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ff9f96b0f764421fb84df9e6babe45e8:5d95b15a3e821d733d09aa82faacfbdb
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ GOLF 2 HD" group-title="Deportes" ch-number="68" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2",M. GOLF 2
+#EXTINF:-1 tvg-id="M+ GOLF 2 HD" group-title="Deportes" ch-number="68" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2",M+ GOLF 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -862,61 +953,6 @@ https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="BABY TV" group-title="Infantiles" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY",BABY TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7
-https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DISNEY Junior" group-title="Infantiles" ch-number="111" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC",DISNEY JR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab
-https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="NICK JR" group-title="Infantiles" ch-number="113" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICKJR",NICK JR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42679b6034b04d3b9f69543f4e2c98cb:85855ce37613d1a83846d4a535f3752d
-https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="NICKELODEON" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088
-https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="115" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP",Dreamworks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c069fd82dbe4ac98aa7479322c55f03:a7298938f60688f3575ab9b41da57707
-https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" group-title="Infantiles" ch-number="116" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCH",DISNEY CH HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=067527b8b0d9417eab5df8b2c44cce93:dcb33c1b9c6b8964650e08c33b909074
-https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="BOING" group-title="Infantiles" ch-number="117" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOING",BOING
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35
-https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="CLAN" group-title="Infantiles" ch-number="118" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV",CLAN TVE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85
-https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 
 
 
@@ -995,12 +1031,7 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="INFO" group-title="Movistar Plus+" ch-number="168" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3",INFO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cb1d2f2c3e14fa98692110dd1604bbc:86a23888fba0582be2af7db26c01d945
-https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
+
 
 
 
@@ -1030,7 +1061,7 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=4a13ec19f39a47da96d677511edc0116:17711d7880e6a9d896579125d33427bf
 https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" group-title="Movistar Plus+" ch-number="82" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO",NAT GEO HD
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" group-title="Movistar Plus+" ch-number="82" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO",NATIONAL GEOGRAPHIC HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1058,7 +1089,7 @@ https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=0e79a01f8f1f42588f79b3e07403ec84:3efefd3e15e5edba00be6673363b831c
 https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ODISEA" group-title="Movistar Plus+" ch-number="86" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ODISEA",CANAL ODISEA
+#EXTINF:-1 tvg-id="ODISEA" group-title="Movistar Plus+" ch-number="86" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ODISEA",ODISEA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1133,7 +1164,7 @@ https://tdtcsur-dash-movistarplus.emisiondof6.com/dash/tdtcsur.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"99fece573256516481ba9863d94ee781":"129f4aa6bf64af089fd0f1674cf94df8","49e35f7f848b5c82a6e38993c0ba9165":"44b6e40899795cbe953130acee6741a3","e6e5e03a99e05e8dbe66452de0685e0a":"f8afb9cad0d16fb131d2e4b06ebaa2a5"}
 https://tvup-live.secure.footprint.net/andaluciatv/andaluciatv.mpd
 
-#EXTINF:-1 tvg-id="CANAL SUR A." group-title="Autonomicas" ch-number="151" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ANTV",CANAL SUR A.
+#EXTINF:-1 tvg-id="CANAL SUR" group-title="Autonomicas" ch-number="151" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ANTV",CANAL SUR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1147,7 +1178,7 @@ https://csur-dash-movistarplus.emisiondof6.com/dash/csuror.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8cf1d0c4d3fb4155812004fe79db1de4:a85875f6f69531ad920a2f576cba44c6
 https://tdttv3-dash-movistarplus.emisiondof6.com/dash/tdttv3.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV3CAT" group-title="Autonomicas" ch-number="154" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVC",TV3CAT
+#EXTINF:-1 tvg-id="TV3 CAT" group-title="Autonomicas" ch-number="154" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVC",TV3 CAT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1159,7 +1190,7 @@ https://tv3cat-dash-movistarplus.emisiondof6.com/dash/tv3cator.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Betev�" group-title="Autonomicas" ch-number="166" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BTV",Betev�
+#EXTINF:-1 tvg-id="Betev" group-title="Autonomicas" ch-number="166" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BTV",Betev
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
@@ -1174,14 +1205,14 @@ https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
-#EXTINF:-1 tvg-id="A PUNT HD" group-title="Autonomicas" ch-number="201" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/APUNT",A PUNT HD
+#EXTINF:-1 tvg-id="PUNT HD" group-title="Autonomicas" ch-number="201" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/APUNT",PUNT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da699dd90ca4ed5b592dc1a294812ad:bb436703dea1abe660c00967657a35d3
 https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="IB3" group-title="Autonomicas" ch-number="209" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/IB3",IB3
+#EXTINF:-1 tvg-id="IB3 RTV ILLES BALEARS" group-title="Autonomicas" ch-number="209" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/IB3",IB3 RTV ILLES BALEARS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1202,14 +1233,14 @@ https://tvup-live.secure2.footprint.net/7cyltv/7cyltv.mpd
 #KODIPROP:inputstream.adaptive.license_key=4867aa61887a973461c3f9f6add0ae4a:c347d26476708fc5ac2fecdcf2a5aabb
 https://ott.zapitv.com/live/eds_c2/7rm_hd/dash_live_enc/7rm_hd.mpd
 
-#EXTINF:-1 tvg-id="La 8 Mediterr�neo HD" group-title="Autonomicas" ch-number="216" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEDITE",La 8 Mediterr�neo HD
+#EXTINF:-1 tvg-id="8 Mediterraneo HD" group-title="Autonomicas" ch-number="216" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEDITE",8 Mediterraneo HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6480b95f01375c8a8be32e28ca154b69":"e3d50f0b0e70188f16dd1a38e521db9c","36a5b2fa33da5b97acb23a138a20c423":"4c26d64fb21f167b326679f4f283ee8f","044a4e79def8586a917caaf882608016":"142db64dc8ef317992a7afe0862cf3ea"}
 https://tvup-live.secure2.footprint.net/la8mediterraneo/la8mediterraneo.mpd
 
-#EXTINF:-1 tvg-id="ARAG�N TV" group-title="Autonomicas" ch-number="202" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGTV",ARAG�N TV
+#EXTINF:-1 tvg-id="ARAGON TV" group-title="Autonomicas" ch-number="202" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGTV",ARAGON TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1488,5 +1519,15 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="INFO" group-title="Movistar Plus+" ch-number="168" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3",INFO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cb1d2f2c3e14fa98692110dd1604bbc:86a23888fba0582be2af7db26c01d945
+https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 
