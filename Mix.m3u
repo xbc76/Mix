@@ -626,6 +626,16 @@ https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f0efb2353a724567b20c9cf99d8960d0:da8df9698f81cf4972b40115ea8f3716
 https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="LA LIGA",M+ Laliga 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/PtuzzPMdgCe8CSg7WQ2VQ", "kid":"GyuWSWj3QP+BvjCt1s7bzQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
+
+
+
 
 
 
@@ -778,7 +788,13 @@ https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8726ee7d09dc41a688ada5df49c08ea1:8ce090ab40e5af32015422775fb1bc5c
 https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name="ext" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=704" group-title="LALIGA HYPERMOTION",LaLiga Hypermotion 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iNxxNBWlS+4I7HY/y+/oaA", "kid":"1Hj4QYqmT5upUKuXg2Qehw" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://4segdiv-dash-movistarplus.emisiondof6.com/dash/4segdivor.isml/manifest.mpd
 
 
 
@@ -856,7 +872,8 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=767258fc8dcf40a1a6dcf957e635fbe4:fcfb6ecf33cc76009ef024a0ed643655
 https://8multidep-dash-movistarplus.emisiondof6.com/dash/8multidepor.isml/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="I156.32281.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
+http://ufospeeds.com:2095/Stuff/8430721285/30266
 
 #EXTINF:-1 tvg-id="EUROSPORT 1" group-title="Deportes" ch-number="72" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP",EUROSPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1363,7 +1380,65 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(TPA)/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
+http://57153542447595391.of230922.xyz:80/play/Sergiovigilante234/99981334w/595391.ts
 
+#EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
+http://57153542447595392.of230922.xyz:80/play/Sergiovigilante234/99981334w/595392.ts
+
+#EXTINF:-1 tvg-name="FEFTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 3
+http://57153542447595393.of230922.xyz:80/play/Sergiovigilante234/99981334w/595393.ts
+
+#EXTINF:-1 tvg-name="FEFTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 4
+http://57153542447595394.of230922.xyz:80/play/Sergiovigilante234/99981334w/595394.ts
+
+#EXTINF:-1 tvg-name="FEFTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 5
+http://57153542447595395.of230922.xyz:80/play/Sergiovigilante234/99981334w/595395.ts
+
+#EXTINF:-1 tvg-name="FEFTV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 6
+http://57153542447595396.of230922.xyz:80/play/Sergiovigilante234/99981334w/595396.ts
+
+#EXTINF:-1 tvg-name="FEFTV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 7
+http://57153542447595397.of230922.xyz:80/play/Sergiovigilante234/99981334w/595397.ts
+
+#EXTINF:-1 tvg-name="FEFTV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 8
+http://57153542447595398.of230922.xyz:80/play/Sergiovigilante234/99981334w/595398.ts
+
+#EXTINF:-1 tvg-name="FEFTV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 9
+http://57153542447595399.of230922.xyz:80/play/Sergiovigilante234/99981334w/595399.ts
+
+#EXTINF:-1 tvg-name="FEFTV 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 10
+http://57153542447595400.of230922.xyz:80/play/Sergiovigilante234/99981334w/595400.ts
+
+#EXTINF:-1 tvg-name="FEFTV 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 11
+http://57153542447595401.of230922.xyz:80/play/Sergiovigilante234/99981334w/595401.ts
+
+#EXTINF:-1 tvg-name="FEFTV 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 12
+http://57153542447595402.of230922.xyz:80/play/Sergiovigilante234/99981334w/595402.ts
+
+#EXTINF:-1 tvg-name="FEFTV 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 13
+http://57153542447595403.of230922.xyz:80/play/Sergiovigilante234/99981334w/595403.ts
+
+#EXTINF:-1 tvg-name="FEFTV 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 14
+http://57153542447595404.of230922.xyz:80/play/Sergiovigilante234/99981334w/595404.ts
+
+#EXTINF:-1 tvg-name="FEFTV 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 15
+http://57153542447595405.of230922.xyz:80/play/Sergiovigilante234/99981334w/595405.ts
+
+#EXTINF:-1 tvg-name="FEFTV 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 16
+http://57153542447595406.of230922.xyz:80/play/Sergiovigilante234/99981334w/595406.ts
+
+#EXTINF:-1 tvg-name="FEFTV 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 17
+http://57153542447595407.of230922.xyz:80/play/Sergiovigilante234/99981334w/595407.ts
+
+#EXTINF:-1 tvg-name="FEFTV 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 18
+http://57153542447595408.of230922.xyz:80/play/Sergiovigilante234/99981334w/595408.ts
+
+#EXTINF:-1 tvg-name="FEFTV 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 19
+http://57153542447595409.of230922.xyz:80/play/Sergiovigilante234/99981334w/595409.ts
+
+#EXTINF:-1 tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
+http://57153542447595410.of230922.xyz:80/play/Sergiovigilante234/99981334w/595410.ts
 
 
 
@@ -1529,5 +1604,35 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cb1d2f2c3e14fa98692110dd1604bbc:86a23888fba0582be2af7db26c01d945
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="VOMISTAR +",OneToro TV HD
+http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
+
+#EXTINF:0 tvg-id="ext" group-title="VOMISTAR +",ONETORO TV FHD
+http://959318160705441850.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441850.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
